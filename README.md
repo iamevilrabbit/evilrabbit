@@ -10,4 +10,4 @@ Now I'm working on learning Next.js and improving my web development skills. Cur
 ## Fun fact: 
 I'm a full-rounded person that always looking to grow and explore new areas!
 
-![Dinosaur Google](https://upload.wikimedia.org/wikipedia/commons/a/a1/Google_Dino_Chrome_Offline_Game.png)
+## ![Dinosaur Google](https://upload.wikimedia.org/wikipedia/commons/a/a1/Google_Dino_Chrome_Offline_Game.png)
