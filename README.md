@@ -7,6 +7,9 @@ Now I'm working on learning Next.js and improving my web development skills. Cur
 - Front-end frameworks
 - Graphic Design
 
+## Ongoing Project
+[CAMELPHASE]
+
 ## Fun fact: 
 If curiosity were a sport, i'd have a gold medal.
 
