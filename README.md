@@ -1,4 +1,4 @@
-# Hi there, I'm @adityakbare 🚀
+# Hi there, I am Evil Rabbit
 Design, code, and everything in between.
 Just here to make cool stuff happen.
 
