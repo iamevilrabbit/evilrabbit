@@ -1,30 +1,19 @@
-<h1 align="center">Hi, I am Evil Rabbit</h1>
-<p align="center">
-  <i>Everything is in progress.</i>
-</p>
+<style>
+  * {
+    font-family: monospace;
+    color: #000;
+    background: #fff;
+  }
+</style>
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamevilrabbit&show_icons=true&theme=radical" alt="Evil Rabbit's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamevilrabbit&theme=radical" alt="Evil Rabbit's GitHub streak" />
-</p>
-
----
-
-### Trophies
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=000000&width=300&lines=Evil+Rabbit" alt="Typing Animation" />
+</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamevilrabbit&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamevilrabbit&show_icons=true&hide_title=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
 </p>
 
----
+<br/>
 
-### Connect
-
-- [Website](https://iamevilrabbit.vercel.app)
-- [LinkedIn](https://linkedin.com/in/adityakbare)
-- [Behance](https://behance.net/evilrabb-it)
+<p align="center"><i>Everything is in progress.</i></p>
